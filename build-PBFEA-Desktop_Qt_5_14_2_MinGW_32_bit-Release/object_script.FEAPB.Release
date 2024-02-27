@@ -1,0 +1,15 @@
+release/Assembly.o
+release/DefineProblem.o
+release/DirichletBoundaryConditions.o
+release/ElementMatrix.o
+release/JacobiPolynomials.o
+release/NumInt.o
+release/PiezoAreaMoments.o
+release/qcustomplot.o
+release/ReadDataFile.o
+release/TimeIntegration.o
+release/hpBasis1D.o
+release/main.o
+release/mainwindow.o
+release/moc_qcustomplot.o
+release/moc_mainwindow.o

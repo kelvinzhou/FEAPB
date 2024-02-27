@@ -1,0 +1,15 @@
+debug/Assembly.o
+debug/DefineProblem.o
+debug/DirichletBoundaryConditions.o
+debug/ElementMatrix.o
+debug/JacobiPolynomials.o
+debug/NumInt.o
+debug/PiezoAreaMoments.o
+debug/qcustomplot.o
+debug/ReadDataFile.o
+debug/TimeIntegration.o
+debug/hpBasis1D.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_qcustomplot.o
+debug/moc_mainwindow.o
